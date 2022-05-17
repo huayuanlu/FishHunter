@@ -1,0 +1,40 @@
+﻿  捕鱼达人.cpp
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(14,16): warning C4101: “end”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(162,8): warning C4101: “s”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(467,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(467,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(468,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(468,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(563,28): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const _Elem *”
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(563,28): message : 请考虑在格式字符串中使用“%hs”
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(563,28): message : 请考虑在格式字符串中使用“%Ts”
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(563,28): message : Visual C++ 使用非标准语义时会出现此警告
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(567,25): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const _Elem *”
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(567,25): message : 请考虑在格式字符串中使用“%hs”
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(567,25): message : 请考虑在格式字符串中使用“%Ts”
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(567,25): message : Visual C++ 使用非标准语义时会出现此警告
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(571,27): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const _Elem *”
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(571,27): message : 请考虑在格式字符串中使用“%hs”
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(571,27): message : 请考虑在格式字符串中使用“%Ts”
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(571,27): message : Visual C++ 使用非标准语义时会出现此警告
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(488,7): warning C4101: “getscore”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(487,7): warning C4101: “getusername”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(489,7): warning C4101: “getfishnum”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(483,7): warning C4101: “r”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(623,9): warning C4551: 缺少参数列表的函数调用
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(665,10): warning C4551: 缺少参数列表的函数调用
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(866,14): warning C4244: “=”: 从“wint_t”转换到“char”，可能丢失数据
+C:\Users\huayuanlu\Desktop\捕鱼达人\捕鱼达人\捕鱼达人.cpp(635): warning C4715: “MouseClick”: 不是所有的控件路径都返回值
+  捕鱼达人.vcxproj -> C:\Users\huayuanlu\Desktop\捕鱼达人\x64\Debug\捕鱼达人.exe

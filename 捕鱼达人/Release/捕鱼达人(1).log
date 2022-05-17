@@ -1,0 +1,47 @@
+﻿  捕鱼达人.cpp
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(18,11): warning C4551: 缺少参数列表的函数调用
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(41,16): warning C4101: “end”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(313,8): warning C4101: “s”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(753,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(753,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(756,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(756,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(782,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(782,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(785,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(785,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(791,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(791,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(792,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(792,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(793,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(793,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(746,11): warning C4101: “m”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(763,14): warning C4101: “c”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(888,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(895,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(902,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(911,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(848,7): warning C4101: “getscore”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(855,32): warning C4101: “Getusername”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(847,7): warning C4101: “getusername”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(855,49): warning C4101: “Getscore”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(849,7): warning C4101: “getfishnum”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(855,63): warning C4101: “Getfishnum”: 未引用的局部变量
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1014,10): warning C4551: 缺少参数列表的函数调用
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1077,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1106,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1109,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1118,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1121,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1153,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1182,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1185,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1195,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1198,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\捕鱼达人\捕鱼达人.cpp(1266,14): warning C4244: “=”: 从“wint_t”转换到“char”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 62 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  捕鱼达人.vcxproj -> C:\Users\huayuanlu\Desktop\学习\C语言课设\捕鱼达人\Release\捕鱼达人.exe
